@@ -1,7 +1,7 @@
 # Ignore Python cache
 __pycache__/
 *.pyc
-.py
+*.py
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
